@@ -1,6 +1,6 @@
 {
   "name": "mcp-virustotal",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "MCP server for VirusTotal API \u2014 analyze URLs, files, IPs, and domains with comprehensive security reports, relationship analysis, and pagination support.",
   "main": "src/index.ts",
   "scripts": {
